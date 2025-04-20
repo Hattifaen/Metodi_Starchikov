@@ -50,6 +50,7 @@ def find_min_unique(a, b, c)
   nil
 end
 
+
 # Наибольшая общая подпоследовательность
 def longest_common_subsequence(a, b)
   max_common = ""
